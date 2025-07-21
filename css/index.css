@@ -1,0 +1,14 @@
+main {
+  padding: 0% 5% 0% 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+.carousel-section {
+  margin-top: 20px;
+  width: 50%;
+  padding-left: 15%;
+  align-items: center;
+  text-align: center;
+}
